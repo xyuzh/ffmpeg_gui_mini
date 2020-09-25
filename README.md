@@ -18,7 +18,7 @@ and install sdl2 library
 sudo apt install libsdl2-dev
 ```
 
-## Compile
+## Compilek
 
 To compile, run the following code in your terminal
 
