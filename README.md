@@ -18,12 +18,12 @@ and install sdl2 library
 sudo apt install libsdl2-dev
 ```
 
-## Compilek
+## Compile
 
 To compile, run the following code in your terminal
 
 ```terminal
-gcc main.c -lSDL2  -o ffmpeg_gui_mini
+make
 ```
 
 ## Execution
